@@ -22,9 +22,6 @@ interface ButtonProps {
    * Optional click handler
    */
   onClick?: () => void;
-  /**
-   * Truc qui se passe au click
-   */
 }
 
 /**
